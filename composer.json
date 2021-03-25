@@ -23,7 +23,7 @@
         "overtrue/wechat": "~4.1",
         "swiftmailer/swiftmailer": "^6.0",
         "jenssegers/optimus": "^1.0",
-        "orchief/restapi": "dev-master",
+        "orchief/sdk": "dev-master",
         "orchief/utility": "1.0.96",
         "hellogerard/jobby": "^3.4",
         "aliyuncs/oss-sdk-php": "^2.3",
