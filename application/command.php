@@ -11,8 +11,5 @@
 
 return [
     'command\rest',                         // 自动生成控制器 模型 验证器 路由
-    'app\base\command\Build',
-    'app\base\command\ScanScript',
-    'app\base\command\SettleOrder',
-    'app\base\command\SettleTask'
+    'app\base\command\Build'
 ];
