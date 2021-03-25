@@ -35,7 +35,6 @@
         "phpoffice/phpspreadsheet": "^1.2",
         "overtrue/pinyin": "~4.0",
         "nategood/httpful": "^0.3.2",
-        "phpoffice/phpword": "^0.18.0",
         "wrep/daemonizable-command": "^3.0"
     },
     "autoload": {
