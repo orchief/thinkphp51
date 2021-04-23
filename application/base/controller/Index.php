@@ -22,6 +22,6 @@ class Index extends Controller
      * @return void
      */
     public function index(){
-        \result("Hello World!");
+        result("Hello World!");
     }
 }
