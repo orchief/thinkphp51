@@ -22,19 +22,6 @@ class Index extends Controller
      * @return void
      */
     public function index(){
-
-        $content = [
-            'type' => 'delivered',
-            'userId' => '4830',
-            'content' => ['44444', now(), ""]
-        ];
-        \think\facade\Hook::listen('minipush', $content);
-
-        // $content = [
-        //     'type' => 'expire',
-        //     'userId' => '4830',
-        //     'content' => ['2323223', now(), "dadfs"]
-        // ];
-        // \think\facade\Hook::listen('minipush', $content);
+        \result("Hello World!");
     }
 }

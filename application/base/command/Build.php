@@ -7,10 +7,6 @@ namespace app\base\command;
 use think\console\Command;
 use think\console\Input;
 use think\console\Output;
-use think\console\input\Argument;
-use think\console\input\Option;
-use think\Db;
-use Overtrue\Pinyin\Pinyin;
 
 class Build extends Command
 {
